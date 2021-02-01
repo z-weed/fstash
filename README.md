@@ -1,4 +1,4 @@
-# Where's my stash?
+# Stashf
 
 ## Why
 
